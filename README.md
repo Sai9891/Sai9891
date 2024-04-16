@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋 Hi, I'm Sai Kumar, a Java Developer skilled in Java EE, Spring Boot, and AWS.
-
+<h2 align="left">👋 Hi, I'm Sai Kumar, a Java Developer skilled in Java EE, Spring Boot, and AWS.
+  
 🚀 Building robust backend apps with Java EE and Spring Boot.
 
 ☁️ Experienced with AWS services for cloud-native solutions.
