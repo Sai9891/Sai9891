@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋! My name is Sai Kumar and I'm a Java Developer</h2>
+<h2 align="left">Hi 👋 Hi, I'm Sai Kumar, a Java Developer skilled in Java EE, Spring Boot, and AWS.
+
+🚀 Building robust backend apps with Java EE and Spring Boot.
+
+☁️ Experienced with AWS services for cloud-native solutions.
+
+📫 Let's connect and collaborate on GitHub!</h2>
 
 ###
 
