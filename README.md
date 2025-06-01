@@ -1,10 +1,12 @@
-<h2 align="left">👋 Hi, I'm Sai Kumar, a Java Developer skilled in Java EE, Spring Boot, and AWS.
-  
-🚀 Building robust backend apps with Java EE and Spring Boot.
+<h2 align="left">👋 Hi, I'm Sai Kumar, a Java Developer specializing in Java EE, Spring Boot, and AWS.
 
-☁️ Experienced with AWS services for cloud-native solutions.
+💻 I build scalable, high-performance backend applications using Java EE and Spring Boot frameworks.
 
-📫 Let's connect and collaborate on GitHub!</h2>
+☁️ Proficient in deploying cloud-native solutions with AWS, including EC2, S3, and Dockerized apps.
+
+🔧 Also experienced in SQL, ETL pipelines, and data validation automation for enterprise projects.
+
+📫 Let’s connect and collaborate on GitHub – I’m always up for exciting backend and cloud projects!</h2>
 
 ###
 
